@@ -15,7 +15,7 @@
                 <div class="flex items-center justify-between">
                     <div class="flex items-center space-x-4">
                         <i class="fas fa-cloud text-3xl"></i>
-                        <h1 class="text-2xl font-bold">Cloud Services Dashboard</h1>
+                        <h1 class="text-2xl font-bold">Cloud Services</h1>
                     </div>
                     <nav>
                         <ul class="flex space-x-6">
